@@ -1,0 +1,31 @@
+default:
+  font: Helvetica
+  bold: "{* Bold}"
+  mono: Andale Mono
+  prechap: "Chapter "
+  postchap: ""
+  presect: "Section "
+  postsect: ""
+  dql: "“"
+  dqr: "”"
+  con: "Contents"
+  fig: "Figure "
+  tab: "Table "
+  indent: "\\qquad"
+  thanks: "This is XYZ contents. It is licensed under the Creative Commons Attribution-Non Commercial-Share Alike 3.0 license. I hope it will be usable to you. The source is here: \\url{https://github-com/hernad}"
+bs:
+  prechap: "Poglavlje "
+  font: Helvetica
+  bold: "{* Bold}"
+  mono: Andale Mono
+  postchap: ""
+  presect: "Sekcija "
+  postsect: ""
+  dql: "“"
+  dqr: "”"
+  con: "Sadržaj"
+  fig: "Slika "
+  tab: "Tabela "
+  indent: "\\qquad"
+  thanks: "Ovo je XYZ sadržaj. Možete ga koristi pod uslovima \\emph{Creative Commons Attribution-Non Commercial-Share Alike 3.0} licence. Nadam se da će Vam biti od koristi. Izvorni k\\^od knjige možete naći ovdje : \\url{https://github-com/hernad}"
+
